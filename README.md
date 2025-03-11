@@ -1,4 +1,4 @@
-## Executable file is dist/main.exe  
+## Executable file is in dist directory
 
 A simple Blockchain implementation in python.
 
